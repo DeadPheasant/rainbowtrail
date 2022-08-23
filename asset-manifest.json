@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rainbowtrail/static/css/main.73df7770.css",
+    "main.js": "/rainbowtrail/static/js/main.5ffb5a56.js",
+    "static/js/787.20dcb2ae.chunk.js": "/rainbowtrail/static/js/787.20dcb2ae.chunk.js",
+    "index.html": "/rainbowtrail/index.html",
+    "main.73df7770.css.map": "/rainbowtrail/static/css/main.73df7770.css.map",
+    "main.5ffb5a56.js.map": "/rainbowtrail/static/js/main.5ffb5a56.js.map",
+    "787.20dcb2ae.chunk.js.map": "/rainbowtrail/static/js/787.20dcb2ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73df7770.css",
+    "static/js/main.5ffb5a56.js"
+  ]
+}
